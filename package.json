@@ -1,0 +1,25 @@
+{
+  "name": "cse341-va",
+  "version": "1.0.0",
+  "description": "\"# cse341-va\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasuquo/cse341-va.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vasuquo/cse341-va/issues"
+  },
+  "homepage": "https://github.com/vasuquo/cse341-va#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
